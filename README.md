@@ -5,7 +5,7 @@
 <strong>:smile: snowlightz's github information</strong>
 <br>
 
-<b>🔗 Popular language -> Java</b>
+<b>🔗 Popular language -></b> Java
 <br>
 
 <b>🔧 Languages and Tools:</b>
