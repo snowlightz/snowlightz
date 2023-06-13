@@ -1,6 +1,6 @@
 <div align="center"><strong>snowlightz's Information</strong></div>
   <hr>
-  <p align="right"><img src="https://komarev.com/ghpvc/?username=zazerconer&label=Views&color=0e75b6&style=flat" alt="zazerconer"></p>
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=snowlightz&label=Views&color=0e75b6&style=flat" alt="snowlightz"></p>
   <br>
   <strong>:octocat: Just a fun time on github.</strong>
   <br>
