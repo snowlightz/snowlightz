@@ -2,7 +2,7 @@
   <hr>
   <p align="right"><img src="https://komarev.com/ghpvc/?username=snowlightz&label=Views&color=0e75b6&style=flat" alt="snowlightz"></p>
   <br>
-  <strong>:octocat: Just a fun time on github.</strong>
+  <strong>:smile: snowlightz's github information</strong>
   <br>
 
   <b>🔗 Fun fact:</b> <p>I will do anything if I feel like doing it.</p>
