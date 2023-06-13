@@ -9,9 +9,9 @@
   <br>
 
   <b>🔧 Languages and Tools:</b>
-  - <a target="_blank" rel="noreferrer" color="red">Java</a> 
-  - <a target="_blank" rel="noreferrer" color="green">C#</a>
-  - <a target="_blank" rel="noreferrer" color="blue">HTML</a>
+  - <a target="_blank" rel="noreferrer" style="color: red;">Java</a> 
+  - <a target="_blank" rel="noreferrer" style="color: green;">C#</a>
+  - <a target="_blank" rel="noreferrer" style="color: blue;">HTML</a>
 
   <br>
 
