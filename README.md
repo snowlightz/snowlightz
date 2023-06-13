@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# snowlightz's Information
 
 Please ensure your pull request adheres to the following guidelines:
 
