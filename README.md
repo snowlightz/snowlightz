@@ -1,6 +1,6 @@
 # snowlightz's Information
 
 Q. What programming language do you use? :
-- ![#f03c15]("Hello World")
+- $${\color{red}Red}$$
 
 Thank you for your suggestions!
