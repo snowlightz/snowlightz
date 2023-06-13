@@ -9,9 +9,11 @@
 <br>
 
 <b>🔧 Languages and Tools:</b>
-- <a target="_blank" rel="noreferrer">Java</a> 
-- <a target="_blank" rel="noreferrer">C#</a>
-- <a target="_blank" rel="noreferrer">HTML</a>
+- Java
+- C#
+- HTML
+- CSS
+- Python
 
 <br>
 
