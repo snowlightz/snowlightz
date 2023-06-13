@@ -15,5 +15,5 @@
 
 <br>
 
-[![snowlightz GitHub Stats](https://stats.hyochan.dev/api/github-stats-advanced?login=snowlightz)]
+![snowlightz GitHub Stats](https://stats.hyochan.dev/api/github-stats-advanced?login=snowlightz)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snowlightz&show_icon=true&locale=en&theme=github-dark-blue)](https://git.io/streak-stats)
