@@ -1,6 +1,6 @@
 # snowlightz's Information
 
 Q. What programming language do you use? :
-- ![Java](http://mckd.kr/assets/java.png)
+- ![#f03c15](Hello World)
 
 Thank you for your suggestions!
