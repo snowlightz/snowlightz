@@ -5,13 +5,13 @@
   <strong>:smile: snowlightz's github information</strong>
   <br>
 
-  <b>🔗 Fun fact:</b> <p>I will do anything if I feel like doing it.</p>
+  <b>🔗 Popular language</b> <p>Java</p>
   <br>
 
   <b>🔧 Languages and Tools:</b>
-  - <a target="_blank" rel="noreferrer" style="color: red;">Java</a> 
-  - <a target="_blank" rel="noreferrer" style="color: green;">C#</a>
-  - <a target="_blank" rel="noreferrer" style="color: blue;">HTML</a>
+  - <a target="_blank" rel="noreferrer">Java</a> 
+  - <a target="_blank" rel="noreferrer">C#</a>
+  - <a target="_blank" rel="noreferrer">HTML</a>
 
   <br>
 
